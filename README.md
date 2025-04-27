@@ -19,7 +19,8 @@ Search available flights based on destination and dates.
 
 Choose seats, luggage, and proceed to secure payment.
 
-Technologies Used:
+#### Technologies Used:
+
 C# for application development.
 
 WinForms/WPF for a rich graphical user interface (if applicable).
@@ -27,6 +28,7 @@ WinForms/WPF for a rich graphical user interface (if applicable).
 SQL for backend data management (or specify the database used).
 
 OOP Principles applied throughout the system design for modularity and scalability.
+
 
 This project showcases strong skills in C# development, object-oriented design, and user-focused software development, making it ideal for businesses seeking high-quality solutions in flight management systems.
 
